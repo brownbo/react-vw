@@ -1,0 +1,9 @@
+.root{
+  width: 10rem;
+  height: 5.3rem;
+  background: #f27a7a;
+  color: rgb(255, 255, 255);
+  line-height: 30rem;
+  text-align: center;
+  display: inline-block;
+}
